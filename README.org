@@ -5,5 +5,5 @@ HTML generation on top of monkeylib-text-languages.
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/gigamonkey/monkeylib-html.git |
 | commit  | 67efc5d                                              |
-| systems | com.gigamonkeys.html                                 |
+| systems | monkeylib-html                                       |
 |---------+------------------------------------------------------|
